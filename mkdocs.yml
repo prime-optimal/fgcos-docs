@@ -1,9 +1,10 @@
-site_name: your_site_name # Change this to your site name
-site_description: A cool description of your site
-site_url: https://change_me.io/ # Change this to your site URL
+site_name: fgcOS # Change this to your site name
+site_description: fgcOS An optimized system for playing fighting games.
+site_url: https://fgcos.lol # Change this to your site URL
 
 theme:
     name: 'material'
+    custom_dir: custom_theme
     logo: assets/meta/favicons.png
     favicon: assets/meta/favicons.png
     custom_dir: overrides
@@ -14,22 +15,22 @@ theme:
     palette:
 
     # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: teal
-      accent: light blue
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+#    - media: "(prefers-color-scheme: light)"
+#      scheme: default
+#      primary: teal
+#      accent: light blue
+#      toggle:
+#        icon: material/toggle-switch-off-outline
+#        name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
+      primary: blue grey
       accent: indigo
       toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+#        icon: material/toggle-switch
+#        name: Switch to light mode
     features:
         - navigation.indexes
         - navigation.top
