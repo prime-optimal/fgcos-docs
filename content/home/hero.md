@@ -19,9 +19,9 @@ cta_alt:
   label: View Documentation
 cta_note:
   label: >-
-    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-themes">
-      Project version will appear here<!-- Automatically filled based on data-repo value -->
-    </span>
+#    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-themes">
+#      Project version will appear here<!-- Automatically filled based on data-repo value -->
+#    </span>
 ---
 
 Elevate Your Fighting Game Experience with fgcOS.
