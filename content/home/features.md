@@ -2,8 +2,8 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: Dominate Your Opponents
+title: Dominate Your Opponents
+subtitle: Take advantage of frame advantage.
 feature:
   - icon: bolt
     icon_pack: fas

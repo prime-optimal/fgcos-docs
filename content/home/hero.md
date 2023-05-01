@@ -3,7 +3,9 @@ widget: hero
 headless: true
 weight: 10
 title: Fight Like a Pro
-hero_media: fist.svg
+hero_media: fgc-os-dark.png
+#image:
+#  filename: fgc-os-dark.png 
 design:
   background:
     gradient_start: '#4bb4e3'
