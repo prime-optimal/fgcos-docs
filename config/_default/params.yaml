@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Project
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo documentation theme powered by Wowchemy website builder.'
+    org_name: 'fgcOS'
+    description: 'Discover the future of fighting games with fgcOS.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
@@ -41,12 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+    notice: '© {year} fgcOS.'
 
 # Localization
 
@@ -91,3 +86,6 @@ features:
       api_key: ''
       index_name: ''
       show_logo: false
+extensions:
+  academicons:
+    enable: true
